@@ -4,7 +4,7 @@
 
 ### TIMEX normalization for Polish
 
-*In the command line*
+**In the command line**
 
 ```bash
 wget https://github.com/CLARIN-PL/Liner2/releases/download/v2.7/g419-liner2-cli-2.7.jar
