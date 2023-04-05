@@ -13,3 +13,7 @@
   * koza
     * https://github.com/bqpro1/koza
     * https://huggingface.co/Lbuk/alpaca-koza-7b
+
+  * Custom fine-tuning
+    * https://www.youtube.com/watch?v=d4Cnv_g3GiI&ab_channel=Brillibits
+    * https://github.com/mallorbc/Finetune_LLMs
